@@ -1,22 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Cinestar Cinemas
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: coder_rush
+  repo: cinestar_cinemas
+  img: /static/assets/img/landing/cinestar.png
+  desc: This project is a Java based ticked booking system using NetBeans and MySQL.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: presentsir
+  i18n: presentsir
+  gh_user: coder_rush
+  repo: presentsir
+  img: /static/assets/img/landing/present.png
+  desc: This is an android application to facilitate the attendance process.
 
-- name: Google
+- name: Umbrella Gifts
+  i18n: umbrella_gifts
+  gh_user: coder_rush
+  repo: umbrella_gifts
+  img: /static/assets/img/landing/umbrella.png
+  desc: This project is a simple ecommerce site developed using PHP and CodeIgniter.
+
+- name: Atri Collection
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  url: https://atricollections.com
+  img: /static/assets/img/landing/atri.png
+  desc: This is a simple static website to sell Sarees online.
