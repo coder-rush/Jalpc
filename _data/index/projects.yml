@@ -10,15 +10,15 @@
 
 - name: presentsir
   i18n: presentsir
-  gh_user: coder_rush
+  gh_user: coder-rush
   repo: presentsir
   img: /static/assets/img/landing/present.png
   desc: This is an android application to facilitate the attendance process.
 
 - name: Umbrella Gifts
-  i18n: umbrella_gifts
-  gh_user: coder_rush
-  repo: umbrella_gifts
+  i18n: umbrella-gifts
+  gh_user: coder-rush
+  repo: umbrella-gifts
   img: /static/assets/img/landing/umbrella.png
   desc: This project is a simple ecommerce site developed using PHP and CodeIgniter.
 
