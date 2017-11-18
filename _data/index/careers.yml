@@ -4,10 +4,10 @@
     detail: Averoft
     i18n: company_a
   desc:
-    detail: I worked at Averoft as a software developer intern.
+    detail: I worked here as a software developer intern.
     i18n: company_a_desc
   date:
-    detail: Mar. 2017
+    detail: Summer 2017
     i18n: company_a_date
   job:
     detail: Software Intern
@@ -15,13 +15,13 @@
   icon: fa-plus-square
 
 - name:
-    detail: IFS Technology
-    i18n: IFS Technology
+    detail: BSNL
+    i18n: BSNL
   desc:
-    detail: I worked at IFS technology as a trainee. 
+    detail: Trained and helped in government approved projects relating to big data analysis and machine learning. 
     i18n: company_b_desc
   date:
-    detail: May. 2016
+    detail: Summer 2016
     i18n: company_b_date
   job:
     detail: Full Stack Developer
